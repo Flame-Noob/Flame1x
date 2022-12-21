@@ -22,7 +22,7 @@ Flame-1x Game Id Cloner  Update Done💥
 
 > pip install bs4
 
-> git clone https://github.com/FLAME-1x/Flame1x.git
+> git clone https://github.com/Flame-Noob/Flame1x.git
 
 > cd Flame1x
 
